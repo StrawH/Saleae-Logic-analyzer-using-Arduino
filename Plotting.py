@@ -36,3 +36,4 @@ for i in range(len(t)):
 
 plt.ioff()  # Turn off interactive mode
 plt.show()  # Show the final plot
+
